@@ -1,0 +1,1 @@
+# ninsho-plugin-test-api
