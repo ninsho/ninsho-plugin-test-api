@@ -13,8 +13,6 @@ export class TestAPI {
 
   async method(): Promise<{ id: number, m_name: string, m_mail: string }> {
 
-    console.log('111')
-
     const connect = await pg.connect()
 
     await connect.query(`
