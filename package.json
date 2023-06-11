@@ -1,6 +1,6 @@
 {
   "name": "ninsho-plugin-admin-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm module",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ninsho/ninsho-plugin-test-api/",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "ninsho": "^0.0.14",
+    "ninsho": "^0.0.15",
     "pg": "^8.10.0",
     "typescript": "^4.6.2"
   },
